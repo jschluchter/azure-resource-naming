@@ -1,7 +1,7 @@
 
 # Azure Resource Naming
-## The following guide is completely subjective, and should be considered strictly a reference and not gospel.
-### All naming is suggested to be Pascal case. {-ENV} can be added to any of the resources to identify the environment that the resource lies (i.e.: '-DEV' , '-QA').
+The following guide is completely subjective, and should be considered strictly a reference and not gospel.
+All naming is suggested to be Pascal case. {-ENV} can be added to any of the resources to identify the environment that the resource lies (i.e.: '-DEV' , '-QA').
 
 
 ## Resource Groups
